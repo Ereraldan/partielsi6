@@ -1,0 +1,17 @@
+1/l'opérateur this sert a référencer l'objet en cour.
+
+2/super sert a appeller le constrcuteur d'une classe parente a celle ou il ce situe.
+
+3/l'instanciation c'est mettre une classe a ces valeur par default en appellant son constructeur.
+
+4/un objet peut etre manipuler, on peut modifier son contenu.
+une classe est un modèle pour créer des objets.
+
+5/objet simulé qui reproduit le comportement d'un objet réel.
+
+6/c'est une manière de concevoir des logiciel, qui fonctionne en générale avec le modèle MVC.
+
+7/un RAD (rational application developer) est un environnement de developpement intégré produit par IBM et destiné a la conception.
+
+8/cela consiste a modifier la structure d'un fichier source et a si nécessaire propager ses modif dans les autres fichier source pour maintenir l'integrité du code.
+
